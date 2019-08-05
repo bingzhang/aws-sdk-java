@@ -33,6 +33,7 @@
   </developers>
   <!-- The module section in pom.xml is auto generated. No manual changes are allowed -->
   <modules>
+    <!-- 
     <module>aws-java-sdk-eventbridge</module>
     <module>aws-java-sdk-ec2instanceconnect</module>
     <module>aws-java-sdk-applicationinsights</module>
@@ -221,6 +222,13 @@
     <module>jmespath-java</module>
     <module>aws-java-sdk-models</module>
     <module>aws-java-sdk-bundle</module>
+    -->
+    <module>aws-java-sdk-kms</module>
+    <module>aws-java-sdk-test-utils</module>
+    <module>jmespath-java</module>
+    <module>aws-java-sdk-core</module>
+    <module>aws-java-sdk-s3</module>
+    <module>aws-examples</module>
 </modules>
   <scm>
     <connection>scm:git:https://github.com/aws/aws-sdk-java.git</connection>
